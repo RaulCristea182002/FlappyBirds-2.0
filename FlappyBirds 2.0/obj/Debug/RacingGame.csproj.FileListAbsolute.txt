@@ -1,0 +1,11 @@
+C:\Users\Raul\Desktop\Programare\RacingGame\bin\Debug\RacingGame.exe.config
+C:\Users\Raul\Desktop\Programare\RacingGame\bin\Debug\RacingGame.exe
+C:\Users\Raul\Desktop\Programare\RacingGame\bin\Debug\RacingGame.pdb
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.csproj.AssemblyReference.cache
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.Properties.Resources.resources
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.csproj.GenerateResource.cache
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.exe
+C:\Users\Raul\Desktop\Programare\RacingGame\obj\Debug\RacingGame.pdb
